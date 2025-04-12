@@ -31,7 +31,6 @@ public class Sound
   }
 
 
-
   /** Removes all silence from the beginning of this sound.
    *  Silence is represented by a value of 0.
    *  Precondition: samples contains at least one nonzero value
